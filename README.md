@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on. Tech interviews Preparation Material...
-- 🌱 I’m currently learning 💻 
+- 🌱 I’m currently learning code💻 
 - 👯 I’m looking to collaborate on . Learning Made Easy.
 - 📫 How to reach me: .mdparvejalam151@gmail.com..
 - 😄 Pronouns: ...
