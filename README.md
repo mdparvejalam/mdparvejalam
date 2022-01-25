@@ -2,8 +2,8 @@
 
    Learning & Exploring 🌐📊📱☕️
 
-- 🔭 I’m currently working on.
-- 🌱 I’m currently learning code Advance PHP 💻 
+- 🔭 I’m currently working on. Cloud Matrics Solutions.
+- 🌱 I’m currently learning code Advance PHP OOPS💻 
 - 👯 I’m looking to collaborate on . Learning Made Easy.
 - 📫 How to reach me: .mdparvejalam151@gmail.com..
 - 😄 Pronouns: ...
