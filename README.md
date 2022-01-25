@@ -1,9 +1,9 @@
 ### Hi there ,This is Md Parvej Alam 👋
 
-Learning & Exploring 🌐📊📱☕️
+   Learning & Exploring 🌐📊📱☕️
 
-- 🔭 I’m currently working on. Tech interviews Preparation Material...
-- 🌱 I’m currently learning code j2EE 💻 
+- 🔭 I’m currently working on.
+- 🌱 I’m currently learning code Advance PHP 💻 
 - 👯 I’m looking to collaborate on . Learning Made Easy.
 - 📫 How to reach me: .mdparvejalam151@gmail.com..
 - 😄 Pronouns: ...
@@ -17,11 +17,3 @@ Learning & Exploring 🌐📊📱☕️
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on. Tech interviews Preparation Material...
-- 🌱 I’m currently learning code j2EE 💻 
-- 👯 I’m looking to collaborate on . Learning Made Easy.
-- 📫 How to reach me: .mdparvejalam151@gmail.com..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am half finish...
-- ⭐ Connect with me:mdparvejalam151@gamil.com
-- ⭐ Languages and Tools: C ,C++ ,CSS3, HTML, JAVASCRIPT, PHP,
