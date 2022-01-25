@@ -1,5 +1,7 @@
 ### Hi there ,This is Md Parvej Alam 👋
 
+Learning & Exploring 🌐📊📱☕️
+
 <!--
 **mdparvejalam/mdparvejalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
