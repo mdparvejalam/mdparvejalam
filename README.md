@@ -8,7 +8,7 @@
 - 📫 How to reach me: .mdparvejalam151@gmail.com..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am half finish...
-- ⭐ Connect with me:mdparvejalam151@gamil.com
+- ⭐ Connect with me:https://www.linkedin.com/in/md-parvej-alam-0786
 - ⭐ Languages and Tools: C ,C++ ,CSS3, HTML, JAVASCRIPT, PHP,
 
 
