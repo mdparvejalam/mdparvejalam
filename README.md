@@ -1,6 +1,6 @@
 ### Hi there ,This is Md Parvej Alam 👋
 
-  🌐 Learning & Exploring ......📊📱☕️
+   🌐 Learning & Exploring ......📊📱☕️
 
 - 🔭 I’m currently working on. Cloud Matrics Solutions.
 - 🌱 I’m currently learning code Advance PHP OOPS💻 
