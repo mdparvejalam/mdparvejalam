@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on. Cloud Matrics Solutions.
 - 🌱 I’m currently learning code Advance PHP OOPS💻 
 - 👯 I’m looking to collaborate on . Learning Made Easy.
-- 📫 How to reach me: .mdparvejalam151@gmail.com
+- 📫 How to reach me: alamparvej9088@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am half finish...
 - ⭐ Connect with me:https://www.linkedin.com/in/md-parvej-alam-0786
