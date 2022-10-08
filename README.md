@@ -8,7 +8,7 @@
 - 📫 How to reach me: alamparvej9088@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am half finish...
-- ⭐ Connect with me:https://www.linkedin.com/in/md-parvej-alam-0786
+- ⭐ Connect with me:https://www.linkedin.com/in/md-parvej-alam-007
 - ⭐ Languages and Tools: C ,C++ ,CSS3, HTML, JAVASCRIPT, PHP,
 
 
