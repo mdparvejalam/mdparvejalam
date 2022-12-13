@@ -3,13 +3,13 @@
      -------------------------------------------------------------
 
 - 🔭 I’m currently working on.Megatask Technologies Pvt Ltd.
-- 🌱 I’m currently learning code Advance PHP OOPS💻 
+- 🌱 I’m currently learning code Advance Core PHP OOPS💻 
 - 👯 I’m looking to collaborate on . Learning Made Easy.
 - 📫 How to reach me: alamparvej9088@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am half finish...
 - ⭐ Connect with me:https://www.linkedin.com/in/md-parvej-alam-007
-- ⭐ Languages and Tools: C ,C++ ,CSS3, HTML, JAVASCRIPT, PHP,
+- ⭐ Languages and Tools: +  HTML ,CSS3, JAVASCRIPT, PHP:
 
 
 <!--
